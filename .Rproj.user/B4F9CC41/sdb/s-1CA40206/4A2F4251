@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "data<-read.csv(skip=4,\n               \"C:/Users/in805/Dropbox/Education/Masters/Jan' 2017 Cohort/MSDS 6306 Doing Data Science An Introduction To Data Science/Assignments/Assignment 05/Work/data/rollingsales_brooklyn.csv\",header=T)",
+    "created" : 1486928356827.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "508103081",
+    "id" : "4A2F4251",
+    "lastKnownWriteTime" : 1486929315,
+    "last_content_update" : 1486929315413,
+    "path" : "C:/Users/in805/Dropbox/Education/Masters/Jan' 2017 Cohort/MSDS 6306 Doing Data Science An Introduction To Data Science/Assignments/Assignment 05/Work/source/work.r",
+    "project_path" : "source/work.r",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

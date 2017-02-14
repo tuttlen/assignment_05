@@ -1,0 +1,2 @@
+data<-read.csv(skip=4,
+               "C:/Users/in805/Dropbox/Education/Masters/Jan' 2017 Cohort/MSDS 6306 Doing Data Science An Introduction To Data Science/Assignments/Assignment 05/Work/data/rollingsales_brooklyn.csv",header=T)
