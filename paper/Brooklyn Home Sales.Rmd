@@ -7,17 +7,11 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## TODO
-TODO
+## Brooklyn Home Sales
 
-```{r cars}
-summary(cars)
-```
+When data is represented it shows very limited correlation. Using a log scale housing sales versus gross square feet are clustered and no striking relationship is observed.
 
-## Including Plots
+Taking out the sales greater then $100,000 there is a strong grouping of data but still no meaningful information at first glance. 
 
-You can also embed plots, for example:
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+

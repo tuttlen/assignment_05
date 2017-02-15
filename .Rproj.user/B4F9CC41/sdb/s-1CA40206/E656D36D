@@ -1,14 +1,14 @@
 {
     "collab_server" : "",
-    "contents" : "The purpose of this project is to fulfill the requirements of Assignment 5 required for the Introduction to Doing Data Science course.\n\nIt examines the housing sales in Brooklyn.\n",
+    "contents" : "The purpose of this project is to fulfill the requirements of Assignment 5 required for the Introduction to Doing Data Science course.\n\nIt examines the housing sales in Brooklyn.\n\nAfter removing outliers (sales log10 < 5) There seems to be a clustering of housing prices between around log10 of 3.0 and 3.5.\n\n\n\n",
     "created" : 1486928142904.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1127745813",
+    "hash" : "2870159198",
     "id" : "E656D36D",
-    "lastKnownWriteTime" : 1486928219,
-    "last_content_update" : 1486928219030,
+    "lastKnownWriteTime" : 1487123692,
+    "last_content_update" : 1487123692889,
     "path" : "C:/Users/in805/Dropbox/Education/Masters/Jan' 2017 Cohort/MSDS 6306 Doing Data Science An Introduction To Data Science/Assignments/Assignment 05/Work/README",
     "project_path" : "README",
     "properties" : {
