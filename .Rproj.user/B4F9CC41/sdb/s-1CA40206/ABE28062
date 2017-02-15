@@ -1,14 +1,14 @@
 {
     "collab_server" : "",
-    "contents" : "---\ntitle: \"Brooklyn Home Sales\"\noutput: html_document\n---\n\n```{r setup, include=FALSE}\nknitr::opts_chunk$set(echo = TRUE)\n```\n\n## Brooklyn Home Sales\n\nWhen data is represented it shows very limited correlation. Using a log scale housing sales versus gross square feet are clustered and no striking relationship is observed.\n\nTaking out the sales greater then $100,000 there is a strong grouping of data but still no meaningful information at first glance. \n\n\n\n",
+    "contents" : "---\ntitle: \"Brooklyn Home Sales\"\noutput: html_document\n---\n\n```{r setup, include=FALSE}\nknitr::opts_chunk$set(echo = TRUE)\n```\n\n## Brooklyn Home Sales\n\nWhen data is represented it shows very limited correlation. Using a log scale housing sales versus gross square feet are clustered and no striking relationship is observed.\n\nTaking out the sales greater then $100,000 for 1,2, and 3 family homes there is a strong grouping of data but still no meaningful information at first glance. \n\n\n\n",
     "created" : 1486930065388.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2515542090",
+    "hash" : "3962888891",
     "id" : "ABE28062",
-    "lastKnownWriteTime" : 1487124747,
-    "last_content_update" : 1487124747770,
+    "lastKnownWriteTime" : 1487124912,
+    "last_content_update" : 1487124912229,
     "path" : "C:/Users/in805/Dropbox/Education/Masters/Jan' 2017 Cohort/MSDS 6306 Doing Data Science An Introduction To Data Science/Assignments/Assignment 05/Work/paper/Brooklyn Home Sales.Rmd",
     "project_path" : "paper/Brooklyn Home Sales.Rmd",
     "properties" : {
